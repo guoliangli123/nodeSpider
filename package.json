@@ -1,0 +1,33 @@
+{
+  "name": "nodespider",
+  "version": "1.0.0",
+  "description": "a spider written by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgl1993/nodeSpider.git"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "lgl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgl1993/nodeSpider/issues"
+  },
+  "homepage": "https://github.com/lgl1993/nodeSpider#readme",
+  "devDependencies": {
+    "async": "^2.1.4",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "http": "0.0.0",
+    "superagent": "^3.1.0",
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "mongoose": "^4.7.1"
+  }
+}
